@@ -565,6 +565,8 @@ export default function Dashboard({
     ...sectionStyle,
     display: 'flex',
     flexDirection: 'column',
+    minHeight: '800px',
+    boxSizing: 'border-box',
   }}
 >
   <h2 style={{ margin: 0, textAlign: 'left' }}>

@@ -44,7 +44,7 @@ export default function Login({ onSuccess }: LoginProps) {
             <path d="M9 16a3 3 0 0 0 3 3" />
           </svg>
         </div>
-        <h1 id="login-title">Poziom wody</h1>
+        <h1 id="login-title">Monitoring poziomu wody</h1>
         <p className="login-subtitle">Zaloguj się, aby sprawdzić stan zbiornika i historię pomiarów.</p>
 
         <form onSubmit={handleLogin} className="login-form">

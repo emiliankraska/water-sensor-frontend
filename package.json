@@ -10,8 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@joshtwc/react-gauges": "^0.3.0",
+    "@tanstack/react-query-devtools": "^5.107.1",
+    "aws-amplify": "^6.22.2",
     "react": "^19.3.1",
-    "react-dom": "^19.3.1"
+    "react-dom": "^19.3.1",
+    "react-is": "^19.3.1",
+    "recharts": "^3.10.1"
   },
   "devDependencies": {
     "@types/node": "^24.19.2",
